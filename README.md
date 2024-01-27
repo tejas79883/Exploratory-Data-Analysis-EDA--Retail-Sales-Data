@@ -16,3 +16,6 @@ The file contains around `32041` rows and `17` columns. The columns are as follo
 * Jupyter Notebook
 * Pandas
 * Matplotlib
+* numpy
+* seaborn
+* math
